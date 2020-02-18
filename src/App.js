@@ -1,10 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import CheckBoxComponent from './CheckBoxComponent'
 
 function App() {
   return (
-    <div className="App">
+    <div className="CheckBoxComp">
+      <CheckBoxComponent></CheckBoxComponent>
+    </div>
+    /*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,7 +23,7 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
+    </div>*/
   );
 }
 
