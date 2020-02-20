@@ -28,6 +28,27 @@
   color: #61dafb;
 }
 
+.MyApp-InputText {
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+
+.MyApp-CheckBox {
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+
+.MyApp-ComboBox {
+  margin-left: 15px;
+  margin-bottom: 20px;
+  width: 20%;
+}
+
+.MyApp-LogArea {
+  margin-left: 15px;
+  margin-bottom: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
